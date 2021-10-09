@@ -2,11 +2,11 @@
 
 >💬 "Demore o tempo que for para decidir o que você quer da vida, e depois que decidir não recue ante nenhum pretexto, porque o mundo tentará te dissuadir." (Friedrich Nietzsche).
 >
-<p>📜 Sou um jovem entusiasta por tecnologia e seus derivados, gosto de programar e através do código criar soluções para os problemas do cotidiano, escrever linhas de código é extremamente empolgante. Programar vai muito além de gerar dúzias de código, é trazer ao mundo real ideias que surgem na nossa cabeça e transformar o imaterial em algo concreto, aparentemente pode parecer bobagem, mas programar é o que temos mais próximo de ter superpoderes, sendo assim, o mais simples: Olá, Mundo! é capaz de causar um sentimento interno de satisfação que só um programador é capaz de sentir e explicar.</p>
+<p align="justify">📜 Sou um jovem entusiasta por tecnologia e seus derivados, gosto de programar e através do código criar soluções para os problemas do cotidiano, escrever linhas de código é extremamente empolgante. Programar vai muito além de gerar dúzias de código, é trazer ao mundo real ideias que surgem na nossa cabeça e transformar o imaterial em algo concreto, aparentemente pode parecer bobagem, mas programar é o que temos mais próximo de ter superpoderes, sendo assim, o mais simples: Olá, Mundo! é capaz de causar um sentimento interno de satisfação que só um programador é capaz de sentir e explicar.</p>
 
 <h4>👤 Quem sou eu?</h4>
 
-<p>Sou técnico em redes de computadores pelo IFPE - Instituo Federal de Pernambuco campus Palmares, atualmente estou cursndo o 2° período do Curso técnico de Informática para Internet, curso totalmente voltado para o desenvolvimento de sistemas web.</p>
+<p align="justify">Sou técnico em redes de computadores pelo IFPE - Instituo Federal de Pernambuco campus Palmares, atualmente estou cursndo o 2° período do Curso técnico de Informática para Internet, curso totalmente voltado para o desenvolvimento de sistemas web.</p>
 
 <h4>🖥️ Habilidades: </h4>
 
