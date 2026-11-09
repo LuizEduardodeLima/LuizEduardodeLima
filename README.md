@@ -32,12 +32,16 @@ Mais do que utilizar tecnologias, quero compreendê-las, explorá-las e desenvol
 
 ## 🖥️ Tecnologias e ferramentas
 
-### Linguagens e desenvolvimento
+<h3>🖥️ Linguagens e desenvolvimento</h3>
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg)
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)
+<div style="display: inline_block">
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript">
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP">
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java">
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5">
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3">
+</div>
 
 Python • JavaScript • PHP • Java • HTML5 • CSS3
 
